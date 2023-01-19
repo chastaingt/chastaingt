@@ -1,6 +1,6 @@
 # 🏄‍♂️ Thomas Chastaingt
 
-**`Software Engineer | Architect`**
+**`Software Engineer | Software and Information System Architect`**
 
 Computer Scientist passionate about building quality software and managing cool project.
 
